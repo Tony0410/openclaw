@@ -108,6 +108,7 @@ Tip: if you don’t have a global install yet, run repo commands via `pnpm openc
 - Nix: [Nix](/install/nix)
 - Ansible: [Ansible](/install/ansible)
 - Bun (CLI only): [Bun](/install/bun)
+- Self-hosted Linux VM: [Self-Hosted Linux](/platforms/self-hosted-linux)
 
 ## After install
 

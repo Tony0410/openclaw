@@ -22,14 +22,17 @@ Native companion apps for Windows are also planned; the Gateway is recommended v
 - Android: [Android](/platforms/android)
 - Windows: [Windows](/platforms/windows)
 - Linux: [Linux](/platforms/linux)
+- Self-hosted Linux VM: [Self-Hosted Linux](/platforms/self-hosted-linux)
 
 ## VPS & hosting
 
 - VPS hub: [VPS hosting](/vps)
+- Self-hosted Linux VM (general guide): [Self-Hosted Linux](/platforms/self-hosted-linux)
 - Fly.io: [Fly.io](/platforms/fly)
 - Hetzner (Docker): [Hetzner](/platforms/hetzner)
 - GCP (Compute Engine): [GCP](/platforms/gcp)
 - exe.dev (VM + HTTPS proxy): [exe.dev](/platforms/exe-dev)
+- Oracle Cloud (Always Free): [Oracle](/platforms/oracle)
 
 ## Common links
 
