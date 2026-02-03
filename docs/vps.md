@@ -13,6 +13,7 @@ deployments work at a high level.
 
 ## Pick a provider
 
+- **Self-Hosted Linux VM** (general guide): [Self-Hosted Linux](/platforms/self-hosted-linux) — Works on any VPS or home server
 - **Railway** (one‑click + browser setup): [Railway](/railway)
 - **Northflank** (one‑click + browser setup): [Northflank](/northflank)
 - **Oracle Cloud (Always Free)**: [Oracle](/platforms/oracle) — $0/month (Always Free, ARM; capacity/signup can be finicky)
